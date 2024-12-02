@@ -1,5 +1,6 @@
-andyliew CE7 Assignment 3.5
-To deploy a simple Flask app to AWS using ECS and ECR with Terraform. The app runs a web server that displays a message, and the Dockerfile builds the container image, which is pushed to ECR. Terraform automates the ECR setup with security scanning, and ECS manages the containers. The deployment involves two task definition revisions, reflecting updates to the app over time.
+andyliew CE7 Module 3 Assignment 3.5
+
+How to create docker image contain app and deploy to private ECR using Terraform
 
 Tools: AWS ECS, ECR, Docker, Flask, and Terraform.
 
