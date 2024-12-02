@@ -1,6 +1,6 @@
-andyliew CE7 Module 3 Assignment 3.5
+**andyliew CE7 Module 3 Assignment 3.5**
 
-How to create docker image contain app and deploy to private ECR using Terraform
+**How to create docker image contain app and deploy to private ECR using Terraform**
 
 Tools: AWS ECS, ECR, Docker, Flask, and Terraform.
 
